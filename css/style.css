@@ -1596,7 +1596,7 @@ h6 {
 }
 
 #about-app .intro-info h2 {
-  margin-top: 35%;
+  margin-top: 10%;
   color: #413e66;
   margin-bottom: 40px;
   font-size: 48px;
@@ -1631,5 +1631,7 @@ h6 {
   color: #413e66;
   font-weight: 600;
 }
+
+
 
 
